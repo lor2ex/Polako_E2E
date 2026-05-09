@@ -6,3 +6,5 @@
 #         self.login_page = LoginPage(driver)
 #         self.events_page = EventsPage(driver)
 #         # Инициализируйте остальные страницы здесь
+
+# Alex
